@@ -38,17 +38,25 @@ jobs:
           PR_DATA=$(curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/search/issues?q=is:pr+author:$USERNAME")
           validate_json "$PR_DATA"
           PR_COUNT=$(echo "$PR_DATA" | jq '.total_count')
-          LANG_API_DATA=$(curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=$USERNAME&format=json&langs_count=5&hide_border=true&layout=compact")
-          if ! echo "$LANG_API_DATA" | jq -e . > /dev/null; then
-            LANG_LIST="Data not available"
-          else
-            LANG_LIST=$(echo "$LANG_API_DATA" | jq -r 'keys_unsorted | join(", ")')
-            if [ -z "$LANG_LIST" ]; then
-              LANG_LIST="Not enough data yet"
-            fi
+          LANG_DATA=$(gh repo list "$USERNAME" --limit 100 --json languages)
+          validate_json "$LANG_DATA"
+          LANG_LIST=$(echo "$LANG_DATA" | jq -r '
+            (reduce (.[].languages[] | select(.size > 0)) as $lang ({}; .[$lang.node.name] += $lang.size)) as $totals_by_lang |
+            ($totals_by_lang | map(.) | add) as $grand_total |
+            $totals_by_lang |
+            to_entries |
+            map({lang: .key, size: .value}) |
+            sort_by(.size) |
+            reverse |
+            .[0:5] |
+            map("\(.lang) (\(.size * 100 / $grand_total | floor)%)") |
+            join(", ")
+          ')
+          if [ -z "$LANG_LIST" ]; then
+            LANG_LIST="Not enough data yet"
           fi
           SVG_TEXT_BLOCK="<tspan x='10' dy='0'>Number of repos:      ${NUM_REPOS}         Number of stars: ${NUM_STARS}</tspan>"
-          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='10' dy='1.2em'>Number of commits: ${COMMIT_COUNT}         Number of PR's:   ${PR_COUNT}</tspan>"
+          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='10' dy='1.2em'>Number of commits: ${COMMIT_COUNT}         Number of PRs:   ${PR_COUNT}</tspan>"
           SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='10' dy='1.2em'>Most used languages: ${LANG_LIST}</tspan>"
           echo "STATS_BLOCK<<EOF" >> $GITHUB_OUTPUT
           echo "$SVG_TEXT_BLOCK" >> $GITHUB_OUTPUT
