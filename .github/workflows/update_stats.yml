@@ -57,10 +57,10 @@ jobs:
           fi
 
           X_COL1_LABEL="10"
-          X_COL1_VALUE="170"
+          X_COL1_VALUE="200"
 
           X_COL2_LABEL="300"
-          X_COL2_VALUE="450"
+          X_COL2_VALUE="460"
 
           SVG_TEXT_BLOCK="<tspan x='${X_COL1_LABEL}' dy='0'>Number of repos:</tspan>"
           SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL1_VALUE}'>${NUM_REPOS}</tspan>"
