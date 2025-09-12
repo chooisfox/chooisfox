@@ -3,10 +3,16 @@ name: Update Profile SVG
 on:
   schedule:
     - cron: "0 */8 * * *"
+
+  push:
+    branches:
+      - main
+
   workflow_dispatch:
 
 jobs:
   update_svg:
+    if: github.event_name != 'push' || github.event.pusher.name == 'chooisfox'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
