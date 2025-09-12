@@ -55,9 +55,26 @@ jobs:
           if [ -z "$LANG_LIST" ]; then
             LANG_LIST="Not enough data yet"
           fi
-          SVG_TEXT_BLOCK="<tspan x='10' dy='0'>Number of repos:     ${NUM_REPOS}       Number of stars: ${NUM_STARS}</tspan>"
-          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='10' dy='1.2em'>Number of commits:   ${COMMIT_COUNT}    Number of PRs:   ${PR_COUNT}</tspan>"
-          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='10' dy='1.2em'>Most used languages: ${LANG_LIST}</tspan>"
+
+          X_COL1_LABEL="10"
+          X_COL1_VALUE="170"
+
+          X_COL2_LABEL="300"
+          X_COL2_VALUE="450"
+
+          SVG_TEXT_BLOCK="<tspan x='${X_COL1_LABEL}' dy='0'>Number of repos:</tspan>"
+          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL1_VALUE}'>${NUM_REPOS}</tspan>"
+          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL2_LABEL}'>Number of stars:</tspan>"
+          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL2_VALUE}'>${NUM_STARS}</tspan>"
+
+          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL1_LABEL}' dy='1.2em'>Number of commits:</tspan>"
+          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL1_VALUE}'>${COMMIT_COUNT}</tspan>"
+          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL2_LABEL}'>Number of PRs:</tspan>"
+          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL2_VALUE}'>${PR_COUNT}</tspan>"
+
+          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL1_LABEL}' dy='1.2em'>Most used languages:</tspan>"
+          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL1_VALUE}'>${LANG_LIST}</tspan>"
+
           echo "STATS_BLOCK<<EOF" >> $GITHUB_OUTPUT
           echo "$SVG_TEXT_BLOCK" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
