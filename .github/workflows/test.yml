@@ -51,7 +51,7 @@ jobs:
           name: vertex-image
           path: vertex_map.ppm
           
-    stage-2-internal-chaos-orientation:
+  stage-2-internal-chaos-orientation:
     needs: stage-1-vector-to-pixel
     runs-on: windows-latest
     outputs:
