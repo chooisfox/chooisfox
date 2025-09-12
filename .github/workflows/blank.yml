@@ -28,7 +28,7 @@ jobs:
               exit 1
             fi
           }
-          GH_REPO_DATA=$(gh repo list --owner "$USERNAME" --limit 1000 --json isFork,stargazersCount)
+          GH_REPO_DATA=$(gh repo list "$USERNAME" --limit 1000 --json isFork,stargazersCount)
           validate_json "$GH_REPO_DATA"
           NUM_REPOS=$(echo "$GH_REPO_DATA" | jq '[.[] | select(.isFork | not)] | length')
           NUM_STARS=$(echo "$GH_REPO_DATA" | jq '[.[].stargazersCount] | add')
