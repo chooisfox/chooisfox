@@ -1,6 +1,6 @@
 # Just testing some stuff
 
- <div class="row">
+ <p align="center">>
      <img src="./res/block.svg" width="16">
     <img src="./res/block.svg" width="16">
-</div>
+</p>
