@@ -71,12 +71,13 @@ jobs:
           $coords = @()
           $rgb = $pixels.Split(' ')
           for ($i = 0; $i -lt $rgb.Length; $i += 3) {
-              if (($rgb[$i] -eq '0') -and ($rgb[i+1] -eq '0') -and ($rgb[i+2] -eq '0')) {
+              if (($rgb.Length - $i) -lt 3) { continue }
+              if (($rgb[$i] -eq '0') -and ($rgb[$($i+1)] -eq '0') -and ($rgb[$($i+2)] -eq '0')) {
                   continue
               }
               $x = ([double]$rgb[$i] / 32) - 4
-              $y = ([double]$rgb[$i+1] / 64) - 1
-              $z = ([double]$rgb[$i+2] / 32) - 4
+              $y = ([double]$rgb[$($i+1)] / 64) - 1
+              $z = ([double]$rgb[$($i+2)] / 32) - 4
               $coords += "$x $y $z"
           }
           Set-Content -Path "coords.txt" -Value ($coords -join [System.Environment]::NewLine)
@@ -131,5 +132,5 @@ jobs:
                 sleep(0.0001)
               end
             end
-            puts "\n\nRender complete. The syntax is fixed, but the process remains beautifully broken."
+            puts "\n\nRender complete. The process has been debugged into a state of functional absurdity."
           '
