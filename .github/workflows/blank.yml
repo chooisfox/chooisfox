@@ -31,7 +31,7 @@ jobs:
           GH_REPO_DATA=$(gh repo list "$USERNAME" --limit 1000 --json isFork,stargazerCount)
           validate_json "$GH_REPO_DATA"
           NUM_REPOS=$(echo "$GH_REPO_DATA" | jq '[.[] | select(.isFork | not)] | length')
-          NUM_STARS=$(echo "$GH_REPO_DATA" | jq '[.[].stargazersCount] | add')
+          NUM_STARS=$(echo "$GH_REPO_DATA" | jq '[.[].stargazerCount] | add')
           COMMIT_DATA=$(curl -s -H "Authorization: token $GITHUB_TOKEN" -H "Accept: application/vnd.github.cloak-preview" "https://api.github.com/search/commits?q=author:$USERNAME")
           validate_json "$COMMIT_DATA"
           COMMIT_COUNT=$(echo "$COMMIT_DATA" | jq '.total_count')
