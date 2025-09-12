@@ -406,9 +406,9 @@
                     id="tspan327"
                 >@archiso ~ # </tspan><tspan id="cursor"><animate
                         attributeName="fill"
-                        values="#000000;#FFFFFF;#FFFFFF;#000000;#000000;"
-                        keyTimes="0; 0; 1; 1"
+                        values="#000000;#FFFFFF;"
                         dur="1s"
+                        calcMode="discrete"
                         repeatCount="indefinite"
                     />█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
