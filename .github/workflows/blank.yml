@@ -1,0 +1,41 @@
+name: Update Profile SVG
+
+on:
+  schedule:
+    - cron: '0 */8 * * *'
+  workflow_dispatch:
+
+jobs:
+  update_svg:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Get GitHub Stats
+        id: github_stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: ${{ github.repository_owner }}
+          show_icons: true
+          hide_title: true
+          hide_border: true
+          theme: dracula
+
+      - name: Generate Stats String
+        id: stats_string
+        run: |
+          STATS=$(echo "Number of repos:      ${{ steps.github_stats.outputs.repositories }}         Number of stars: ${{ steps.github_stats.outputs.stars }}
+          Number of commits: ${{ steps.github_stats.outputs.commits }}         Number of PR's:   ${{ steps.github_stats.outputs.prs }}
+          Most used languages: ${{ steps.github_stats.outputs.top_languages }}")
+          echo "::set-output name=stats::$STATS"
+
+      - name: Update SVG
+        run: |
+          sed -i "s|{github_stats}|$(echo "${{ steps.stats_string.outputs.stats }}")|g" ./res/arch_profile_template.svg
+          mv ./res/arch_profile_template.svg ./res/arch_profile_current.svg
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "docs: update profile svg with latest stats"
+          file_pattern: ./res/arch_profile_current.svg
