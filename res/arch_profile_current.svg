@@ -7,9 +7,32 @@
     version="1.1"
     id="svg1"
     xml:space="preserve"
+    sodipodi:docname="arch_profile_template.svg"
+    inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
     xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg"
-><defs id="defs1" /><g id="layer1"><rect
+><sodipodi:namedview
+        id="namedview1"
+        pagecolor="#505050"
+        bordercolor="#ffffff"
+        borderopacity="1"
+        inkscape:showpageshadow="0"
+        inkscape:pageopacity="0"
+        inkscape:pagecheckerboard="1"
+        inkscape:deskcolor="#505050"
+        inkscape:document-units="pt"
+        inkscape:zoom="0.59589844"
+        inkscape:cx="853.33333"
+        inkscape:cy="682.16323"
+        inkscape:window-width="2228"
+        inkscape:window-height="1359"
+        inkscape:window-x="0"
+        inkscape:window-y="0"
+        inkscape:window-maximized="1"
+        inkscape:current-layer="layer1"
+    /><defs id="defs1" /><g id="layer1"><rect
             style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
             id="rect1"
             width="1280"
@@ -23,396 +46,388 @@
             y="12.735992"
             id="text1"
             transform="translate(0.35147858,-12.735992)"
-        ><tspan x="-0.27200317" y="12.735992" id="tspan2"><tspan
+        ><tspan x="-0.27200317" y="12.735992" id="tspan4"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan1"
+                    id="tspan3"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="38.846084" id="tspan15"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="38.846084" id="tspan6"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan14"
+                    id="tspan5"
                 >Arch Linux 6.16.5-arch1-1 (tty1)
-</tspan></tspan><tspan x="-0.27200317" y="64.956176" id="tspan60"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="64.956176" id="tspan8"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan59"
+                    id="tspan7"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="91.066269" id="tspan62"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="91.066269" id="tspan10"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan61"
+                    id="tspan9"
                 >archiso login: chooisfox (automatic login)
-</tspan></tspan><tspan x="-0.27200317" y="117.17636" id="tspan64"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="117.17636" id="tspan12"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan63"
+                    id="tspan11"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="143.28645" id="tspan68"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="143.28645" id="tspan16"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan65"
+                    id="tspan13"
                 >To install </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#00ffff"
-                    id="tspan66"
+                    id="tspan14"
                 >Arch Linux</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan67"
+                    id="tspan15"
                 > follow the installation guide:
-</tspan></tspan><tspan x="-0.27200317" y="169.39654" id="tspan70"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="169.39654" id="tspan18"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan69"
+                    id="tspan17"
                 >https://wiki.archlinux.org/title/Installation_guide
-</tspan></tspan><tspan x="-0.27200317" y="195.50664" id="tspan72"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="195.50664" id="tspan20"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan71"
+                    id="tspan19"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="221.61673" id="tspan76"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="221.61673" id="tspan24"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan73"
+                    id="tspan21"
                 >For Wi-Fi, authenticate to the wireless network using the </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff00ff"
-                    id="tspan74"
+                    id="tspan22"
                 >iwctl</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan75"
+                    id="tspan23"
                 > utility.
-</tspan></tspan><tspan x="-0.27200317" y="247.72682" id="tspan80"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="247.72682" id="tspan28"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan77"
+                    id="tspan25"
                 >For mobile broadband (WWAN) nodens, connect with the </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff00ff"
-                    id="tspan78"
+                    id="tspan26"
                 >mmcli</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan79"
+                    id="tspan27"
                 > utility.
-</tspan></tspan><tspan x="-0.27200317" y="273.83691" id="tspan82"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="273.83691" id="tspan30"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan81"
+                    id="tspan29"
                 >Ethernet, WLAN and WWAN interfaces using DHCP should work automatically.
-</tspan></tspan><tspan x="-0.27200317" y="299.94701" id="tspan84"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="299.94701" id="tspan32"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan83"
+                    id="tspan31"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="326.05711" id="tspan86"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="326.05711" id="tspan34"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan85"
+                    id="tspan33"
                 >After comecting to the internet, the installation guide can be accessed
-</tspan></tspan><tspan x="-0.27200317" y="352.16722" id="tspan90"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="352.16722" id="tspan38"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan87"
+                    id="tspan35"
                 >via the convenience script </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff00ff"
-                    id="tspan88"
+                    id="tspan36"
                 >Installation_guide</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan89"
+                    id="tspan37"
                 >.
-</tspan></tspan><tspan x="-0.27200317" y="378.27733" id="tspan92"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="378.27733" id="tspan40"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan91"
+                    id="tspan39"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="404.38744" id="tspan194"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="404.38744" id="tspan85"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff0000"
-                    id="tspan93"
+                    id="tspan41"
                 >███</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold'"
-                    id="tspan94"
+                    id="tspan42"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#0000ff"
-                    id="tspan95"
+                    id="tspan43"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold'"
-                    id="tspan98"
+                    id="tspan44"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff0000"
-                    id="tspan99"
+                    id="tspan45"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#00ffff"
-                    id="tspan100"
+                    id="tspan46"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff00ff"
-                    id="tspan101"
+                    id="tspan47"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff0000"
-                    id="tspan150"
+                    id="tspan48"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#00ffff"
-                    id="tspan151"
+                    id="tspan49"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffff00"
-                    id="tspan152"
+                    id="tspan50"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff0000"
-                    id="tspan153"
+                    id="tspan51"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000080"
-                    id="tspan154"
+                    id="tspan52"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff00ff"
-                    id="tspan155"
+                    id="tspan53"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold'"
-                    id="tspan159"
+                    id="tspan54"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#0000ff"
-                    id="tspan160"
+                    id="tspan55"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold'"
-                    id="tspan161"
+                    id="tspan56"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff0000"
-                    id="tspan162"
+                    id="tspan57"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#0000ff"
-                    id="tspan163"
+                    id="tspan58"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff0000"
-                    id="tspan164"
+                    id="tspan59"
                 >██</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#00ffff"
-                    id="tspan165"
+                    id="tspan60"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#00ff00"
-                    id="tspan166"
+                    id="tspan61"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff0000"
-                    id="tspan174"
+                    id="tspan62"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#0000ff"
-                    id="tspan175"
+                    id="tspan63"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffff00"
-                    id="tspan177"
+                    id="tspan64"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff0000"
-                    id="tspan178"
+                    id="tspan65"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff00ff"
-                    id="tspan179"
+                    id="tspan68"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold'"
-                    id="tspan180"
+                    id="tspan69"
                 >██</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#0000ff"
-                    id="tspan181"
+                    id="tspan70"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold'"
-                    id="tspan182"
+                    id="tspan71"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff0000"
-                    id="tspan183"
+                    id="tspan72"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#0000ff"
-                    id="tspan184"
+                    id="tspan73"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#00ff00"
-                    id="tspan185"
+                    id="tspan76"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff0000"
-                    id="tspan186"
+                    id="tspan77"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#00ffff"
-                    id="tspan187"
+                    id="tspan80"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#0000ff"
-                    id="tspan188"
+                    id="tspan81"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff0000"
-                    id="tspan189"
+                    id="tspan82"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#00ffff"
-                    id="tspan190"
+                    id="tspan83"
                 >█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan193"
+                    id="tspan84"
                 >█
-</tspan></tspan><tspan x="-0.27200317" y="430.49754" id="tspan254"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="430.49754" id="tspan90"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff5555"
-                    id="tspan195"
+                    id="tspan86"
                 >chooisfox</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan253"
+                    id="tspan87"
                 >@archiso ~ # neofetch
-</tspan></tspan><tspan x="-0.27200317" y="456.60765" id="tspan260"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="456.60765" id="tspan103"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan255"
+                    id="tspan91"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan256"
+                    id="tspan92"
                 >chooisfox</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan257"
+                    id="tspan96"
                 >@</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan258"
+                    id="tspan97"
                 >chooisfox</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan259"
+                    id="tspan102"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="482.71776" id="tspan262"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="482.71776" id="tspan105"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan261"
+                    id="tspan104"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  -------------------
-</tspan></tspan><tspan x="-0.27200317" y="508.82787" id="tspan266"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="508.82787" id="tspan109"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan263"
+                    id="tspan106"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan264"
+                    id="tspan107"
                 >OS</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan265"
+                    id="tspan108"
                 >: Arch Linux x86_64
-</tspan></tspan><tspan x="-0.27200317" y="534.93797" id="tspan270"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="534.93797" id="tspan113"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan267"
+                    id="tspan110"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan268"
+                    id="tspan111"
                 >Kernel</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan269"
+                    id="tspan112"
                 >: 6.16.7-arch1-1s
-</tspan></tspan><tspan x="-0.27200317" y="561.04808" id="tspan274"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="561.04808" id="tspan117"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan271"
+                    id="tspan114"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan272"
+                    id="tspan115"
                 >DE</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan273"
+                    id="tspan116"
                 >: Hyprland / BSPWM
-</tspan></tspan><tspan x="-0.27200317" y="587.15819" id="tspan278"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="587.15819" id="tspan121"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan275"
+                    id="tspan118"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan276"
+                    id="tspan119"
                 >DM</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan277"
+                    id="tspan120"
                 >: ly
-</tspan></tspan><tspan x="-0.27200317" y="613.26829" id="tspan282"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="613.26829" id="tspan125"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan279"
+                    id="tspan122"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan280"
+                    id="tspan123"
                 >Shell</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan281"
+                    id="tspan124"
                 >: bash 5.3.3
-</tspan></tspan><tspan x="-0.27200317" y="639.3784" id="tspan286"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="639.3784" id="tspan129"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan283"
+                    id="tspan126"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan284"
+                    id="tspan127"
                 >Terminal</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan285"
+                    id="tspan128"
                 >: alacritty
-</tspan></tspan><tspan x="-0.27200317" y="665.48851" id="tspan290"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="665.48851" id="tspan133"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan287"
+                    id="tspan130"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan288"
+                    id="tspan131"
                 >Editor</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan289"
+                    id="tspan132"
                 >: zed
-</tspan></tspan><tspan x="-0.27200317" y="691.59862" id="tspan294"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="691.59862" id="tspan137"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan291"
+                    id="tspan134"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan292"
+                    id="tspan135"
                 >Host</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan293"
+                    id="tspan136"
                 >: 21HM003ACD ThinkPad X1 Carbon Gen 11
-</tspan></tspan><tspan x="-0.27200317" y="717.70872" id="tspan298"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="717.70872" id="tspan141"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan295"
+                    id="tspan138"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan296"
+                    id="tspan139"
                 >CPU</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan297"
+                    id="tspan140"
                 >: 13th Gen Intel i7-1360P (16) @ 5.000GHz
-</tspan></tspan><tspan x="-0.27200317" y="743.81883" id="tspan302"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="743.81883" id="tspan145"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan299"
+                    id="tspan142"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan300"
+                    id="tspan143"
                 >GPU</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan301"
+                    id="tspan144"
                 >: Intel Raptor Lake-P [Iris Xe Graphics]
-</tspan></tspan><tspan x="-0.27200317" y="769.92894" id="tspan306"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="769.92894" id="tspan149"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan303"
+                    id="tspan146"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
-                    id="tspan304"
+                    id="tspan147"
                 >Memory</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan305"
+                    id="tspan148"
                 >: 32028MiB
-</tspan></tspan><tspan x="-0.27200317" y="796.03905" id="tspan308"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="796.03905" id="tspan157"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan307"
+                    id="tspan156"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="822.14915" id="tspan310"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="822.14915" id="tspan167"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan309"
+                    id="tspan158"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="848.25926" id="tspan312"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="848.25926" id="tspan169"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan311"
+                    id="tspan168"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="874.36937" id="tspan315"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="874.36937" id="tspan172"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff5555"
-                    id="tspan313"
+                    id="tspan170"
                 >chooisfox</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan314"
+                    id="tspan171"
                 >@archiso ~ # git shortlog -s -n
-</tspan></tspan><tspan x="-0.27200317" y="900.47948" id="tspan317"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="900.47948" id="tspan176"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan316"
+                    id="tspan173"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="926.58958" id="tspan319"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="926.58958" id="tspan192"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan318"
+                    id="tspan191"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="952.69969" id="tspan321"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="952.69969" id="tspan196"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan320"
+                    id="tspan194"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="978.8098" id="tspan323"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan322"
-                >
-</tspan></tspan><tspan x="-0.27200317" y="1004.9199" id="tspan325"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan324"
-                >
-</tspan></tspan><tspan x="-0.27200317" y="1031.03" id="tspan329"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="978.8098" id="tspan200"><tspan
                     style="fill:#ff5555"
-                    id="tspan326"
+                    id="tspan197"
                 >chooisfox</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan327"
-                >@archiso ~ # </tspan><tspan id="cursor"><animate
+                    id="tspan198"
+                >@archiso ~ # </tspan><tspan id="cursor" fill="#FFFFFF"><animate
                         attributeName="fill"
-                        values="#000000;#FFFFFF;"
+                        values="#000000;#FFFFFF"
                         dur="1s"
                         calcMode="discrete"
                         repeatCount="indefinite"
                     />█</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan328"
+                    id="tspan199"
                 >
 </tspan></tspan></text><text
             xml:space="preserve"
@@ -421,29 +436,29 @@
             y="12.735992"
             id="text1-3"
             transform="translate(-0.34851837,875.42401)"
-        ><tspan x="-0.27200317" y="12.735992" id="tspan331"><tspan
+        ><tspan x="-0.27200317" y="12.735992" id="tspan202"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan330"
-                ><tspan x='10' dy='0'>Number of repos:</tspan><tspan x='200'>19</tspan><tspan x='300'>Number of stars:</tspan><tspan x='470'>17</tspan><tspan x='10' dy='1.2em'>Number of commits:</tspan><tspan x='200'>180</tspan><tspan x='300'>Number of PRs:</tspan><tspan x='470'>34</tspan><tspan x='10' dy='1.2em'>Most used languages:</tspan><tspan x='220'>C++ (66%), CMake (12%), Shell (9%), TeX (6%), GLSL (2%)</tspan>
-</tspan></tspan><tspan x="-0.27200317" y="38.846084" id="tspan333"><tspan
+                    id="tspan201"
+                ><tspan x='10' dy='0'>Number of repos:</tspan><tspan x='200'>19</tspan><tspan x='300'>Number of stars:</tspan><tspan x='470'>17</tspan><tspan x='10' dy='1.2em'>Number of commits:</tspan><tspan x='200'>182</tspan><tspan x='300'>Number of PRs:</tspan><tspan x='470'>34</tspan><tspan x='10' dy='1.2em'>Most used languages:</tspan><tspan x='220'>C++ (66%), CMake (12%), Shell (9%), TeX (6%), GLSL (2%)</tspan>
+</tspan></tspan><tspan x="-0.27200317" y="38.846084" id="tspan204"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan332"
+                    id="tspan203"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="64.956176" id="tspan335"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="64.956176" id="tspan206"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan334"
+                    id="tspan205"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="91.066269" id="tspan337"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="91.066269" id="tspan208"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan336"
+                    id="tspan207"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="117.17636" id="tspan339"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="117.17636" id="tspan210"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan338"
+                    id="tspan209"
                 >
-</tspan></tspan><tspan x="-0.27200317" y="143.28645" id="tspan341"><tspan
+</tspan></tspan><tspan x="-0.27200317" y="143.28645" id="tspan212"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
-                    id="tspan340"
+                    id="tspan211"
                 >
 </tspan></tspan></text><text
             xml:space="preserve"
@@ -452,61 +467,61 @@
             y="775.16547"
             id="text173"
             transform="matrix(0.97041697,0,0,1,23.785924,8.7820487)"
-        ><tspan x="-18.329035" y="775.16547" id="tspan352"><tspan
+        ><tspan x="-18.329035" y="775.16547" id="tspan223"><tspan
                     style="stroke-width:1"
-                    id="tspan342"
+                    id="tspan213"
                 >                                            </tspan><tspan
                     style="fill:#3c3836"
-                    id="tspan343"
+                    id="tspan214"
                 >███</tspan><tspan
                     style="fill:#9d0006"
-                    id="tspan344"
+                    id="tspan215"
                 >███</tspan><tspan
                     style="fill:#79740e"
-                    id="tspan345"
+                    id="tspan216"
                 >███</tspan><tspan
                     style="fill:#b57614"
-                    id="tspan346"
+                    id="tspan217"
                 >███</tspan><tspan
                     style="fill:#076678"
-                    id="tspan347"
+                    id="tspan218"
                 >███</tspan><tspan
                     style="fill:#8f3f71"
-                    id="tspan348"
+                    id="tspan219"
                 >███</tspan><tspan
                     style="fill:#427b58"
-                    id="tspan349"
+                    id="tspan220"
                 >███</tspan><tspan
                     style="fill:#928374"
-                    id="tspan350"
-                >███</tspan><tspan style="stroke-width:1" id="tspan351">
-</tspan></tspan><tspan x="-18.329035" y="795.4681" id="tspan362"><tspan
+                    id="tspan221"
+                >███</tspan><tspan style="stroke-width:1" id="tspan222">
+</tspan></tspan><tspan x="-18.329035" y="795.4681" id="tspan233"><tspan
                     style="stroke-width:1"
-                    id="tspan353"
+                    id="tspan224"
                 >                                            </tspan><tspan
                     style="fill:#7c6f64"
-                    id="tspan354"
+                    id="tspan225"
                 >███</tspan><tspan
                     style="fill:#cc241d"
-                    id="tspan355"
+                    id="tspan226"
                 >███</tspan><tspan
                     style="fill:#98971e"
-                    id="tspan356"
+                    id="tspan227"
                 >███</tspan><tspan
                     style="stroke-width:1"
-                    id="tspan357"
+                    id="tspan228"
                 >███</tspan><tspan
                     style="fill:#458588"
-                    id="tspan358"
+                    id="tspan229"
                 >███</tspan><tspan
                     style="fill:#b16286"
-                    id="tspan359"
+                    id="tspan230"
                 >███</tspan><tspan
                     style="fill:#689d6a"
-                    id="tspan360"
+                    id="tspan231"
                 >███</tspan><tspan
                     style="fill:#fbf1c7"
-                    id="tspan361"
+                    id="tspan232"
                 >███</tspan></tspan></text></g><g id="layer2"><rect
             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01722"
             id="rect127"
