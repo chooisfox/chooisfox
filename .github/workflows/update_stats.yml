@@ -57,7 +57,8 @@ jobs:
           fi
 
           X_COL1_LABEL="10"
-          X_COL1_VALUE="200"
+          X_COL1_VALUE="190"
+          X_COLL_VALUE="220"
 
           X_COL2_LABEL="300"
           X_COL2_VALUE="460"
@@ -73,7 +74,7 @@ jobs:
           SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL2_VALUE}'>${PR_COUNT}</tspan>"
 
           SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL1_LABEL}' dy='1.2em'>Most used languages:</tspan>"
-          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COL1_VALUE}'>${LANG_LIST}</tspan>"
+          SVG_TEXT_BLOCK="${SVG_TEXT_BLOCK}<tspan x='${X_COLL_VALUE}'>${LANG_LIST}</tspan>"
 
           echo "STATS_BLOCK<<EOF" >> $GITHUB_OUTPUT
           echo "$SVG_TEXT_BLOCK" >> $GITHUB_OUTPUT
