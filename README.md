@@ -1,6 +1,12 @@
 # Just testing some stuff
 
- <p align="center">>
-     <img src="./res/block.svg" width="16">
-    <img src="./res/block.svg" width="16">
-</p>
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+    <tr>
+        <td style="padding: 0; margin: 0; border: 0;">
+            <img src="./res/block.svg" width="16">
+        </td>
+        <td style="padding: 0; margin: 0; border: 0;">
+            <img src="./res/block.svg" width="16">
+        </td>
+    </tr>
+</table>
