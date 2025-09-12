@@ -253,7 +253,7 @@
                     id="tspan87"
                 >@archiso ~ # neofetch
 </tspan></tspan><tspan x="-0.27200317" y="456.60765" id="tspan103"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan91"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -269,12 +269,9 @@
                     id="tspan102"
                 >
 </tspan></tspan><tspan x="-0.27200317" y="482.71776" id="tspan105"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
-                    id="tspan104"
-                >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
-                    id="tspan108"
-                >-------------------
+                    id="tspan104"
+                >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  -------------------
 </tspan></tspan><tspan x="-0.27200317" y="508.82787" id="tspan109"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan106"
@@ -416,10 +413,10 @@
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
                     id="tspan194"
                 >
-</tspan></tspan><tspan
-    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff5555"
-    id="tspan92"
->chooisfox</tspan><tspan
+</tspan></tspan><tspan x="-0.27200317" y="978.8098" id="tspan200"><tspan
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ff5555"
+                    id="tspan197"
+                >chooisfox</tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
                     id="tspan198"
                 >@archiso ~ # </tspan><tspan id="cursor" fill="#FFFFFF"><animate
