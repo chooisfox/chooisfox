@@ -51,7 +51,7 @@ jobs:
           name: vertex-image
           path: vertex_map.ppm
           
-  stage-2-api-driven-orientation:
+    stage-2-internal-chaos-orientation:
     needs: stage-1-vector-to-pixel
     runs-on: windows-latest
     outputs:
@@ -62,12 +62,13 @@ jobs:
         with:
           name: vertex-image
 
-      - name: Get Orientation from Public API
+      - name: Generate Orientation from Internal GitHub Variables
         id: get_orientation
         shell: pwsh
         run: |
-          $response = Invoke-RestMethod -Uri "http://worldtimeapi.org/api/timezone/Europe"
-          $angle = ($response.Count * 5) % 360
+          $runId = $env:GITHUB_RUN_ID
+          $angle = $runId % 360
+          echo "Using Run ID $runId to generate angle: $angle"
           echo "angle=$angle" >> $env:GITHUB_OUTPUT
 
       - name: Re-convert pixels back to text coordinates
