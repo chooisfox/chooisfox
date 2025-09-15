@@ -230,7 +230,7 @@
                     id="tspan124"
                 >@archiso ~ # neofetch
 </tspan></tspan><tspan x="-0.27200317" y="456.60765" id="tspan131"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan126"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -246,11 +246,14 @@
                     id="tspan130"
                 >
 </tspan></tspan><tspan x="-0.27200317" y="482.71776" id="tspan133"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan132"
-                >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  -------------------
-</tspan></tspan><tspan x="-0.27200317" y="508.82787" id="tspan137"><tspan
+                >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</tspan>  <tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    id="tspan132-2"
+                >-------------------
+</tspan></tspan><tspan x="-0.27200317" y="508.82787" id="tspan137"><tspan
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan134"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -260,7 +263,7 @@
                     id="tspan136"
                 >: Arch Linux x86_64
 </tspan></tspan><tspan x="-0.27200317" y="534.93797" id="tspan141"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan138"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -270,7 +273,7 @@
                     id="tspan140"
                 >: 6.16.7-arch1-1s
 </tspan></tspan><tspan x="-0.27200317" y="561.04808" id="tspan145"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan142"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -280,7 +283,7 @@
                     id="tspan144"
                 >: Hyprland / BSPWM
 </tspan></tspan><tspan x="-0.27200317" y="587.15819" id="tspan149"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan146"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -290,7 +293,7 @@
                     id="tspan148"
                 >: ly
 </tspan></tspan><tspan x="-0.27200317" y="613.26829" id="tspan167"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan156"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -300,7 +303,7 @@
                     id="tspan158"
                 >: bash 5.3.3
 </tspan></tspan><tspan x="-0.27200317" y="639.3784" id="tspan171"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan168"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -310,7 +313,7 @@
                     id="tspan170"
                 >: alacritty
 </tspan></tspan><tspan x="-0.27200317" y="665.48851" id="tspan191"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan172"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -320,7 +323,7 @@
                     id="tspan176"
                 >: zed
 </tspan></tspan><tspan x="-0.27200317" y="691.59862" id="tspan198"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan192"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -330,7 +333,7 @@
                     id="tspan197"
                 >: 21HM003ACD ThinkPad X1 Carbon Gen 11
 </tspan></tspan><tspan x="-0.27200317" y="717.70872" id="tspan202"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan199"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -340,7 +343,7 @@
                     id="tspan201"
                 >: 13th Gen Intel i7-1360P (16) @ 5.000GHz
 </tspan></tspan><tspan x="-0.27200317" y="743.81883" id="tspan206"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan203"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -350,7 +353,7 @@
                     id="tspan205"
                 >: Intel Raptor Lake-P [Iris Xe Graphics]
 </tspan></tspan><tspan x="-0.27200317" y="769.92894" id="tspan210"><tspan
-                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#fbf1c7"
+                    style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#000000"
                     id="tspan207"
                 >▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄  </tspan><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#d79921"
@@ -424,7 +427,7 @@
         ><tspan x="-0.27200317" y="12.735992" id="tspan235"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
                     id="tspan234"
-                ><tspan x='10' dy='0'>Number of repos:</tspan><tspan x='200'>19</tspan><tspan x='300'>Number of stars:</tspan><tspan x='470'>22</tspan><tspan x='10' dy='1.2em'>Number of commits:</tspan><tspan x='200'>201</tspan><tspan x='300'>Number of PRs:</tspan><tspan x='470'>34</tspan><tspan x='10' dy='1.2em'>Most used languages:</tspan><tspan x='220'>C++ (66%), CMake (12%), Shell (9%), TeX (6%), GLSL (2%)</tspan>
+                ><tspan x='10' dy='0'>Number of repos:</tspan><tspan x='200'>19</tspan><tspan x='300'>Number of stars:</tspan><tspan x='470'>22</tspan><tspan x='10' dy='1.2em'>Number of commits:</tspan><tspan x='200'>204</tspan><tspan x='300'>Number of PRs:</tspan><tspan x='470'>34</tspan><tspan x='10' dy='1.2em'>Most used languages:</tspan><tspan x='220'>C++ (66%), CMake (12%), Shell (9%), TeX (6%), GLSL (2%)</tspan>
 </tspan></tspan><tspan x="-0.27200317" y="38.846084" id="tspan237"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
                     id="tspan236"
