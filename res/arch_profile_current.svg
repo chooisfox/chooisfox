@@ -9,16 +9,32 @@
     xml:space="preserve"
     xmlns="http://www.w3.org/2000/svg"
     xmlns:svg="http://www.w3.org/2000/svg"
-><defs id="defs1" /><g id="layer1"><rect
+>
+    <defs id="defs1">
+        <style type="text/css">
+@font-face {
+    font-family: "Terminess Nerd Font Mono";
+    src:
+        url("fonts/TerminessNerdFontMono-Regular.woff2") format("woff2"),
+        url("fonts/TerminessNerdFontMono-Regular.woff") format("woff"),
+        url("fonts/TerminessNerdFontMono-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+        </style>
+    </defs>
+    <g id="layer1">
+        <rect
             style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
             id="rect1"
             width="1280"
             height="1024"
             x="0"
             y="0"
-        /><text
+        />
+        <text
             xml:space="preserve"
-            style="font-size:20px;font-family:'Lekton Nerd Font Mono';-inkscape-font-specification:'Lekton Nerd Font Mono, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1291.95;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.75"
+            style="font-size:20px;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:1291.95;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.75"
             x="-0.27200317"
             y="12.735992"
             id="text1"
@@ -427,7 +443,7 @@
         ><tspan x="-0.27200317" y="12.735992" id="tspan235"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
                     id="tspan234"
-                ><tspan x='10' dy='0'>Number of repos:</tspan><tspan x='200'>21</tspan><tspan x='300'>Number of stars:</tspan><tspan x='470'>23</tspan><tspan x='10' dy='1.2em'>Number of commits:</tspan><tspan x='200'>385</tspan><tspan x='300'>Number of PRs:</tspan><tspan x='470'>35</tspan><tspan x='10' dy='1.2em'>Most used languages:</tspan><tspan x='220'>C++ (86%), CMake (5%), Shell (3%), TeX (2%), GLSL (1%)</tspan>
+                ><tspan x='10' dy='0'>Number of repos:</tspan><tspan x='200'>21</tspan><tspan x='300'>Number of stars:</tspan><tspan x='470'>23</tspan><tspan x='10' dy='1.2em'>Number of commits:</tspan><tspan x='200'>386</tspan><tspan x='300'>Number of PRs:</tspan><tspan x='470'>35</tspan><tspan x='10' dy='1.2em'>Most used languages:</tspan><tspan x='220'>C++ (86%), CMake (5%), Shell (3%), TeX (2%), GLSL (1%)</tspan>
 </tspan></tspan><tspan x="-0.27200317" y="38.846084" id="tspan237"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
                     id="tspan236"
