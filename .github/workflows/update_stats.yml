@@ -20,10 +20,10 @@ jobs:
       - name: Generate Font Data URIs
         run: |
           # Use uppercase for environment variable conventions
-          TERMINESS_REG_B64=$(base64 -w 0 ./res/fonts/TerminessNerdFontMono-Regular.woff2)
-          TERMINESS_BOLD_B64=$(base64 -w 0 ./res/fonts/TerminessNerdFontMono-Bold.woff2)
-          TERMINESS_BOLDIT_B64=$(base64 -w 0 ./res/fonts/TerminessNerdFontMono-BoldItalic.woff2)
-          TERMINESS_ITALIC_B64=$(base64 -w 0 ./res/fonts/TerminessNerdFontMono-Italic.woff2)
+          TERMINESS_REG_B64=$(base64 -w 0 ./res/fonts/terminess-regular-subset.woff2)
+          TERMINESS_BOLD_B64=$(base64 -w 0 ./res/fonts/terminess-bold-subset.woff2)
+          TERMINESS_BOLDIT_B64=$(base64 -w 0 ./res/fonts/terminess-bolditalic-subset.woff2)
+          TERMINESS_ITALIC_B64=$(base64 -w 0 ./res/fonts/terminess-italic-subset.woff2)
 
           # Append these variables to the job's environment file
           echo "TERMINESS_REG_B64=$TERMINESS_REG_B64" >> $GITHUB_ENV
