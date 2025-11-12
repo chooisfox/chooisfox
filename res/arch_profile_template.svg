@@ -15,9 +15,9 @@
 @font-face {
     font-family: "Terminess Nerd Font Mono";
     src:
-        url("fonts/TerminessNerdFontMono-Regular.woff2") format("woff2"),
-        url("fonts/TerminessNerdFontMono-Regular.woff") format("woff"),
-        url("fonts/TerminessNerdFontMono-Regular.ttf") format("truetype");
+        url("{font_path_base}/TerminessNerdFontMono-Regular.woff2") format("woff2"),
+        url("{font_path_base}/TerminessNerdFontMono-Regular.woff") format("woff"),
+        url("{font_path_base}/TerminessNerdFontMono-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
