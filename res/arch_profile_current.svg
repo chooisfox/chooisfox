@@ -21,6 +21,33 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: "Terminess Nerd Font Mono";
+    src:
+        url("https://raw.githubusercontent.com/chooisfox/chooisfox/main/res/fonts/TerminessNerdFontMono-Bold.woff2") format("woff2"),
+        url("https://raw.githubusercontent.com/chooisfox/chooisfox/main/res/fonts/TerminessNerdFontMono-Bold.woff") format("woff");
+        url("https://raw.githubusercontent.com/chooisfox/chooisfox/main/res/fonts/TerminessNerdFontMono-Bold.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Terminess Nerd Font Mono";
+    src:
+        url("https://raw.githubusercontent.com/chooisfox/chooisfox/main/res/fonts/TerminessNerdFontMono-BoldItalic.woff2") format("woff2"),
+        url("https://raw.githubusercontent.com/chooisfox/chooisfox/main/res/fonts/TerminessNerdFontMono-BoldItalic.woff") format("woff");
+        url("https://raw.githubusercontent.com/chooisfox/chooisfox/main/res/fonts/TerminessNerdFontMono-BoldItalic.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Terminess Nerd Font Mono";
+    src:
+        url("https://raw.githubusercontent.com/chooisfox/chooisfox/main/res/fonts/TerminessNerdFontMono-Italic.woff2") format("woff2"),
+        url("https://raw.githubusercontent.com/chooisfox/chooisfox/main/res/fonts/TerminessNerdFontMono-Italic.woff") format("woff");
+        url("https://raw.githubusercontent.com/chooisfox/chooisfox/main/res/fonts/TerminessNerdFontMono-Italic.ttf") format("truetype");
+    font-weight: normal;
+    font-style: italic;
+}
         </style>
     </defs>
     <g id="layer1">
@@ -443,7 +470,7 @@
         ><tspan x="-0.27200317" y="12.735992" id="tspan235"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
                     id="tspan234"
-                ><tspan x='10' dy='0'>Number of repos:</tspan><tspan x='200'>21</tspan><tspan x='300'>Number of stars:</tspan><tspan x='470'>23</tspan><tspan x='10' dy='1.2em'>Number of commits:</tspan><tspan x='200'>396</tspan><tspan x='300'>Number of PRs:</tspan><tspan x='470'>35</tspan><tspan x='10' dy='1.2em'>Most used languages:</tspan><tspan x='220'>C++ (86%), CMake (5%), Shell (3%), TeX (2%), GLSL (1%)</tspan>
+                ><tspan x='10' dy='0'>Number of repos:</tspan><tspan x='200'>21</tspan><tspan x='300'>Number of stars:</tspan><tspan x='470'>23</tspan><tspan x='10' dy='1.2em'>Number of commits:</tspan><tspan x='200'>398</tspan><tspan x='300'>Number of PRs:</tspan><tspan x='470'>35</tspan><tspan x='10' dy='1.2em'>Most used languages:</tspan><tspan x='220'>C++ (86%), CMake (5%), Shell (3%), TeX (2%), GLSL (1%)</tspan>
 </tspan></tspan><tspan x="-0.27200317" y="38.846084" id="tspan237"><tspan
                     style="font-weight:bold;font-family:'Terminess Nerd Font Mono';-inkscape-font-specification:'Terminess Nerd Font Mono, Bold';fill:#ffffff"
                     id="tspan236"
