@@ -39,7 +39,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
         run: |
-          # This entire script for fetching stats remains the same.
           validate_json() {
             if ! echo "$1" | jq -e . > /dev/null; then
               echo "::error::API call failed or did not return valid JSON. The workflow cannot continue."
@@ -101,11 +100,11 @@ jobs:
 
       - name: Update SVG template
         run: |
-          sed -e "s|{github_stats}|${STATS_BLOCK}|g" \
-              -e "s|{terminess_regular_woff2}|${TERMINESS_REG_B64}|g" \
+          sed -e "s|{terminess_regular_woff2}|${TERMINESS_REG_B64}|g" \
               -e "s|{terminess_bold_woff2}|${TERMINESS_BOLD_B64}|g" \
               -e "s|{terminess_bold_italic_woff2}|${TERMINESS_BOLDIT_B64}|g" \
               -e "s|{terminess_italic_woff2}|${TERMINESS_ITALIC_B64}|g" \
+              -e "s|{github_stats}|${{ steps.fetch_stats.outputs.STATS_BLOCK }}|g" \
               ./res/arch_profile_template.svg > ./res/arch_profile_current.svg
 
       - name: Commit and Push changes
