@@ -17,6 +17,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Generate Font Path
+        id: font_path
+        run: |
+          FONT_BASE_URL="https://raw.githubusercontent.com/${{ github.repository }}/main/res/fonts"
+          echo "url=${FONT_BASE_URL}" >> $GITHUB_OUTPUT
+
       - name: Install jq
         run: sudo apt-get install -y jq
 
@@ -88,8 +94,10 @@ jobs:
 
       - name: Update SVG template
         run: |
-          sed "s#{github_stats}#${{ steps.fetch_stats.outputs.STATS_BLOCK }}#g" ./res/arch_profile_template.svg > ./res/arch_profile_current.svg
-
+          sed -e "s|{font_path_base}|${{ steps.font_path.outputs.url }}|g" \
+              -e "s|{github_stats}|${{ steps.fetch_stats.outputs.STATS_BLOCK }}|g" \
+              ./res/arch_profile_template.svg > ./res/arch_profile_current.svg
+              
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
